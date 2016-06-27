@@ -11,9 +11,9 @@ This is a RESTfull API to represents a simple Property CRUD
 
 ## Installation and Getting Started
 
-You must have Docker and Docker Mongo Image, [here is a documentation how to do it](https://hub.docker.com/_/mongo/)
+You must have Docker and Docker Mongo Image, [here is a documentation to how to do it](https://hub.docker.com/_/mongo/)
 
-** PS **: To start Docker Mongo Image, use de follow command:
+**PS**: To start Docker Mongo Image, use de follow command:
 
 > sudo docker run -ti --net=host mongo
 
